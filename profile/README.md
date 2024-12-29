@@ -1,7 +1,7 @@
 ## Welcome to the OpenSBT group 👋
 
 🙋‍♀️ OpenSBT is a modular framework for the virtual validation of complex systems using heuristic testing techniques. 
-Originally, it has been develeped to provide a generic environment for validating automated driving systems. 
+Originally, it has been developed to provide a generic environment for validating automated driving systems. 
 Recently, it started to support researchers in testing learning-enabled components across various domains.
 
 🌈 OpenSBT is open-source and distributed under the Apache 2.0 license. We encourage contributions of all kinds. 
