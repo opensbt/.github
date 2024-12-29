@@ -2,7 +2,7 @@
 
 🙋‍♀️ OpenSBT is a modular framework for the virtual validation of cyber physical systems using heuristic testing techniques. 
 Originally, it has been develeped to provide a generic environment for validating automated driving systems. 
-Lately it started to support researchers in testing learning-enabled components from different domains.
+Recently, it started to support researchers in testing learning-enabled components across various domains.
 
 🌈 OpenSBT is open-source and distributed under the Apache 2.0 license. We encourage contributions of all kinds. 
 Whether you have feature requests or encounter issues, feel free to create tickets or open discussions.
