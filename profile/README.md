@@ -1,12 +1,22 @@
 ## Welcome to the OpenSBT group 👋
 
-<!--
+🙋‍♀️ OpenSBT is a modular framework for the virtual validation of cyber physical systems using heuristic testing techniques. 
+Originally, it has been develeped to provide a generic environment for validating automated driving systems. 
+Lately it started to support researchers in testing learning-enabled components from different domains.
 
-**Here are some ideas to get you started:**
+🌈 OpenSBT is open-source and distributed under the Apache 2.0 license. We encourage contributions of all kinds. 
+Whether you have feature requests or encounter issues, feel free to create tickets or open discussions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 Documentation for the core OpenSBT framework can be found [here](https://opensbt.github.io/opensbt-core/).
+
+
+## Repositories
+Implemented extensions and main repositories of OpenSBT include:
+
+- [OpenSBT-Core](https://github.com/opensbt/opensbt-core): Contains the OpenSBT framework and usage tutorials.
+- [CARLA Runner](https://github.com/opensbt/carla-runner): Contains a simulation adapter to integrate the CARLA Simulator to simulate CARLA Agents and FMI-based SUTs with OpenSBT.
+- [Prescan Runner](https://github.com/opensbt/prescan_runner): Contains a simulation adapter to integrate an Simulink-based SUT with OpenSBT to simulate it in the Prescan Simulator.
+- [OpenSBT-FMNIST](https://github.com/opensbt/opensbt-core): Contains an extension of OpenSBT to test MNIST/Fashion-MNIST classifiers.
+
+Happy Testing!
+
