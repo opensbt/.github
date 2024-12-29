@@ -16,7 +16,7 @@ Implemented extensions and main repositories of OpenSBT include:
 - [OpenSBT-Core](https://github.com/opensbt/opensbt-core): Contains the OpenSBT framework and usage tutorials.
 - [CARLA Runner](https://github.com/opensbt/carla-runner): Contains a simulation adapter to integrate the CARLA Simulator to simulate CARLA Agents and FMI-based SUTs with OpenSBT.
 - [Prescan Runner](https://github.com/opensbt/prescan_runner): Contains a simulation adapter to integrate an Simulink-based SUT with OpenSBT to simulate it in the Prescan Simulator.
-- [OpenSBT-FMNIST](https://github.com/opensbt/opensbt-core): Contains an extension of OpenSBT to test MNIST/Fashion-MNIST classifiers.
+- [OpenSBT-FMNIST](https://github.com/opensbt/opensbt-fmnist): Contains an extension of OpenSBT to test MNIST/Fashion-MNIST classifiers.
 
 Happy Testing!
 
